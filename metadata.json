@@ -1,0 +1,6 @@
+{
+  "name": "Jevin - Chatbot Santai & Natural",
+  "description": "Chatbot santai dan asik bernama Jevin yang siap menjawab pertanyaan kamu dengan gaya bahasa santai, gaul, dan natural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
